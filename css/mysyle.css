@@ -1,0 +1,104 @@
+
+*{
+size: 100px;
+}
+
+
+label{
+    color: #FF8C00;
+    background-color: blueviolet;
+    font-size: 20px;
+}
+
+h1{
+    color: blue;
+
+}
+
+
+p{
+    color: red;
+}
+
+
+.social-media{
+    color: gold;
+    font-size: 40px;
+}
+
+.yasmin{
+    background-color: black
+}
+
+#MohammadAwad{
+    color: tomato;
+}
+
+.MA{
+    background-color: cadetblue;
+}
+
+
+#websites{
+    color: red;
+}
+
+.connections-type{
+    color: blue;
+}
+
+ol{
+    color: yellow;
+}
+
+img{
+    width: 500px;
+    height: 500px;
+}
+
+table{
+    border-style: dotted;
+}
+
+.para_news{
+
+    padding: 10px 200px 10px 20px;
+
+
+}
+
+
+
+.header_one{
+    display: inline-block;
+}
+
+
+.container{
+    display: flex;
+    justify-content:  space-evenly;   /* Horizental only */
+    align-items: start;
+    height: 300px;
+    background-color: rgb(208, 208, 187);
+}
+
+
+
+
+
+.div1{
+    background-color: blue;
+}
+
+.div2{
+    background-color: blueviolet;
+
+}
+
+
+.div3{
+    background-color: red;
+ 
+}
+
+
